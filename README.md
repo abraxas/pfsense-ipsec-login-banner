@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/pfsense-ipsec-login-banner">pfsense-ipsec-login-banner</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/pfsense-ipsec-login-banner"><strong>https://abraxaslabs.tech/research/pfsense-ipsec-login-banner</strong></a>
+</p>
+
 
 # pfsense-ipsec-login-banner
 
